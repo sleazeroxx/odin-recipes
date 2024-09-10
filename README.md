@@ -1,1 +1,1 @@
-# odin-recipes
+# Recipe site to practise basic HTML and pushing to git
